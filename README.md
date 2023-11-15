@@ -29,11 +29,11 @@ Execute the program using runserver command.
 	<title>SLOT TIMETABLE</title>
 	<body>
 	<center>
-	<table border="5" bgcolor="cyan" cell spacing="10" cellpadding="10">
+	<table border="5" bgcolor="pink" cell spacing="10" cellpadding="10">
 	<caption>SLOT TIME TABLE-JANANI S (23013409)</caption>
 	<img src = "/static/logo.png" height="100" width="540">
 	<tr>
-	<TR bgcolor="Yellow">
+	<TR bgcolor="orange">
 	<th>Day/Time</th>
 	<th>Monday</th>
 	<th>Tuesday</th>
@@ -42,7 +42,7 @@ Execute the program using runserver command.
 	<th>Friday</th>
 	</TR>
 	<tr>
-	<th bgcolor="yellow">8-10</th>
+	<th bgcolor="orange">8-10</th>
 	<td>FREE SLOT</td>
 	<td>PROB</td>
 	<td>FWAD</td>
@@ -50,7 +50,7 @@ Execute the program using runserver command.
 	<td>PYTHON</td>
 	</tr>
 	<tr>
-	<th bgcolor="yellow">10-12</th>
+	<th bgcolor="orange">10-12</th>
 	<td>FREE SLOT</td>
 	<td>PYTHON</td>
 	<td>PHYSICS</td>
@@ -58,7 +58,7 @@ Execute the program using runserver command.
 	<td>PROB</td>
 	</tr>
 	<tr>
-	<th bgcolor="yellow">1-3</th>
+	<th bgcolor="orange">1-3</th>
 	<td>FREE SLOT</td>
 	<td>FREE SLOT</td>
 	<td>FREE SLOT</td>
@@ -66,11 +66,12 @@ Execute the program using runserver command.
 	<td>FWAD</td>
 	</tr>
 	<tr>
-	<th bgcolor="yellow">3-5</th>
+	<th bgcolor="orange">3-5</th>
+	</tr>">3-5</th>
 	<td>FREE SLOT</td>
 	<td>FREE SLOT</td>
 	<td>PYTHON</td>
-	<td>PYTHON</td>
+	<td> PYTHON</td>
 	<td>PHYSICS</td>
 	</tr>
 	</table>
@@ -115,7 +116,7 @@ Execute the program using runserver command.
 	
 ```
 ## OUTPUT
-![Alt text](<Screenshot (18)-1.png>)
+![Alt text](<Screenshot (19).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
