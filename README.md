@@ -26,13 +26,12 @@ Execute the program using runserver command.
 ## PROGRAM
 ```
 <html>
-	<head>
 	<title>SLOT TIMETABLE</title>
 	<body>
 	<center>
-	<img src = "/static/logo.png" height="100" width="540">
 	<table border="5" bgcolor="cyan" cell spacing="10" cellpadding="10">
 	<caption>SLOT TIME TABLE-JANANI S (23013409)</caption>
+	<img src = "/static/logo.png" height="100" width="540">
 	<tr>
 	<TR bgcolor="Yellow">
 	<th>Day/Time</th>
@@ -67,7 +66,7 @@ Execute the program using runserver command.
 	<td>FWAD</td>
 	</tr>
 	<tr>
-	<th bgcolor="yellow">3-5</td>
+	<th bgcolor="yellow">3-5</th>
 	<td>FREE SLOT</td>
 	<td>FREE SLOT</td>
 	<td>PYTHON</td>
@@ -84,38 +83,39 @@ Execute the program using runserver command.
 	<th>SUBJECT NAME</th>
 	</tr>
 	<tr>
-	<td >1</td>
+	<th>1</th>
 	<td>19A1414</td>
 	<td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT(FWAD)</td>
 	</tr>
 	<tr>
-	<td>2</td>
+	<th>2</th>
 	<td>19MA222</td>
 	<td>PROBABILITY AND QUEUEING THEORY(PQ)</td>
 	</tr>
 	<tr>
-	<td>3</td>
+	<th>3</th>
 	<td>19AI301C</td>
 	<td>PYTHON AND LINEAR ALGEBRA(PYTHON)</td>
 	</tr>
 	<tr>
-	<td>4</td>
+	<th>4</th>
 	<td>19PH214</td>
 	<td>PHYSICS AND QUANTUM COMPUTING(PQC)</td>
 	</tr>
 	<tr>
-	<td>5</td>
+	<th>5</th>
 	<td>19EY701</td>
 	<td>SOFT SKILLS(SS)</td>
 	</tr>
-	</center>
+	</table>
 	</body>
+	</center>
 	</head>
 </html>
 	
 ```
 ## OUTPUT
-![Alt text](<Screenshot (17).png>)
+![Alt text](<Screenshot (18)-1.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
